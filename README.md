@@ -1,7 +1,7 @@
-# RJ Tech Limited · RDK 欧洲生态演示
+# RJ Tech Limited · 机器人产品与系统
 
-公开演示：https://erfinderwx.github.io/rj-rdk-europe-demo/
+网站：https://erfinderwx.github.io/rj-rdk-europe/
 
-本仓库仅保存构建后的静态演示网页。用于方案展示和交流，不提供在线销售、订单或付款；项目需求仅在访问者浏览器中生成，不自动发送。
+RDK 开发板、感知定位组件、移动平台与系统配置。
 
-独立于 RJ Support。源码及内部维护资料保留在独立私有项目中。
+本仓库保存构建后的静态网站。产品需求清单由访问者在浏览器中保存、复制或下载。
