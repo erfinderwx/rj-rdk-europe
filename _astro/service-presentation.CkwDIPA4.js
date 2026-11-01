@@ -1,0 +1,1 @@
+function e(e){return e===`tar-autonomy-kit`||e===`rj-integration-services`}function t(t,n,r){if(!e(t))return``;let i=new URLSearchParams(r).get(`specVariant`)??``;return n.includes(i)?i:``}function n(e){let t=new URL(e);return t.searchParams.delete(`specVariant`),t.href}export{n,t as r,e as t};
