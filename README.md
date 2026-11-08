@@ -1,4 +1,4 @@
-# RJ Tech Limited · 机器人产品与系统
+# RJ Tech DACH Online Store · 机器人产品与系统
 
 网站：https://erfinderwx.github.io/rj-rdk-europe/
 
