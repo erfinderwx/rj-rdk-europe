@@ -1,0 +1,1 @@
+window.RJ_I18N={"locale":"zh","dictionary":{}};
