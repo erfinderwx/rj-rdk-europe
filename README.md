@@ -1,6 +1,6 @@
 # RJ Tech DACH Online Store · 机器人产品与系统
 
-网站：https://erfinderwx.github.io/rj-rdk-europe/
+网站：https://store.xw-tech.de/
 
 RDK 开发板、感知定位组件、移动平台与系统配置。
 
